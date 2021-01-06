@@ -1,2 +1,2 @@
 # OCAS
-this is my Major Project 
+B.Tech Academic Major Project
